@@ -1,0 +1,17 @@
+h1 {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+  }
+
+  h2  {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+  }
+
+  p {
+    background-color: yellow;
+  }
+
+  nav {
+    padding: 8px;
+  }
